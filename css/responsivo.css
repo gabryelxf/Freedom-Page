@@ -1,0 +1,136 @@
+/*Tablet*/
+
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+
+.wepon-guy{
+    
+    display: none;
+
+}
+
+.cabecalho{
+
+margin-top: -70px;
+
+}
+
+.secao-1 h3{
+        
+    font-size: 40px
+}
+
+.secao-3{
+
+    height: 600px;
+    width: 100%;
+}
+
+.valores{
+    padding: 0 0 0 50px;
+}
+
+.secao-3 h2{
+
+    font-size: 28px;
+}
+
+.secao-4 li{
+height: 515px;
+
+}
+
+.botao-agendar{
+
+    margin-top: 40px;
+
+}
+
+.secao-5-mapa{
+    margin-top: -10px;
+}
+
+.secao-5-mapa{
+
+    height: 450px;
+
+}
+
+.secao-7{
+
+    margin-top: 10px;
+
+}
+}
+
+/*Smartphone*/
+
+@media only screen and (max-width: 768px){
+    .cabecalho {
+
+    height: 700px;
+        
+        }
+
+.cabecalho h2{
+
+    margin-top: 40px;
+
+            
+}
+
+.wepon-guy{
+    
+    display: none;
+
+}
+
+
+.secao-2{
+
+
+    margin: 50px 0 0 0;
+
+ }
+
+ .secao-3{
+
+    margin: 80px 0 50px 0;
+    height: 1070px;
+ }    
+
+ .secao-3 h2{
+
+    margin-top: 0;
+ }
+
+ .valores{
+
+    margin-top: 50px;
+    padding: 0px;
+
+ }
+
+ .secao-5-mapa{
+
+    height: 430px;
+
+ }
+
+ .botao-contato2{
+    height: 60px;
+    padding: 5px;
+ }
+
+ .agendamento{
+
+    margin-top: 60px;
+    
+
+ }
+
+ .imagem-topo{
+
+    margin-top: -50px;
+ }
+	
+}
