@@ -190,6 +190,14 @@ color: white;
 
  }
 
+
+ .img-servicos{
+
+    width: 64px;
+    height: 64px;
+
+ }
+
 /*.topico-solo{
 
     width: 300px;
@@ -308,7 +316,10 @@ box-shadow: 0 2px yellow;
 
 }
 
-
+.img-planos{
+    width: 40px;
+    height: 40px;
+}
 
 /*Estilizacao secao-5*/
 .secao-5{
