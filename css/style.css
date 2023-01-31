@@ -19,7 +19,7 @@ html{
 /*Personalizacao Cabecalho*/
 .cabecalho{
 
-   background: linear-gradient(rgba(0,0,0,60%), rgba(0,0,0,60%)), url(../img/lowes-takes-photos-Ov0qgffjI-w-unsplash.jpg) no-repeat center center;
+   background: linear-gradient(rgba(0,0,0,60%), rgba(0,0,0,60%)), url(../img/lowes-takes-photos-Ov0qgffjI-w-unsplash.webp) no-repeat center center;
    height: 657px;
    width: 100%;
    background-size: cover;
@@ -215,7 +215,7 @@ color: white;
  
 
  .secao-3{
-    background: url(/img/maxresdefault.jpg) no-repeat center center;
+    background: url(../img/maxresdefault.webp) no-repeat center center;
     background-size: cover;
     height: 480px;
     margin: 150px 0 0 0;
