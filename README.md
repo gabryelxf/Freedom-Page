@@ -5,19 +5,26 @@ https://gabryelxf.github.io/Freedom-Page/
 
 #HTML e CSS.
 
-#Sites de suporte para otimização:
+#Ferramentas de suporte à otimização:
 
--https://www.photopea.com/
+-https://www.photopea.com/ (Edição e redimensionamento de imagens)
 
--https://pagespeed.web.dev/
+-https://pagespeed.web.dev/ (Visualização de desempenho do site)
 
--https://convertio.co/pt/jpg-webp/
+-https://convertio.co/pt/jpg-webp/ (Conversão de formato de imagens)
 
 
-#Ferramentas utilizadas para melhorar o site :
+#Outras Ferramentas utilizadas :
 
--https://favicon.io/ (icone do <head>)
+-https://favicon.io/ (icone do <head>);
   
--https://clarity.microsoft.com/ (Cria o mapa de calor do site)
+-https://clarity.microsoft.com/ (Cria o mapa de calor do site);
   
--https://getform.io/ (Receber formulários POST)
+-https://getform.io/ (Receber formulários POST);
+
+-Google Search Console (Mostrar existência do site ao Google)
+
+-Sitemap (Mostrar ao Google o mapa do site)
+
+-Robots.txt (Autoriza o robô do Google a acessar o site e reconhecer todas as mudanças e atualizações. Além de rastrear por completo o site)
+
