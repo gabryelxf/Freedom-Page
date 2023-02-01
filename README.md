@@ -26,7 +26,7 @@ https://gabryelxf.github.io/Freedom-Page/
 
 -https://www.xml-sitemaps.com/ (Mostrar ao Google o mapa do site)
 
--Robots.txt (Autoriza o robô do Google a acessar o site e reconhecer todas as mudanças e atualizações. Além de rastrear por completo o site)
+-https://smallseotools.com/pt/robots-txt-generator/ (Robot.txt Autoriza o robô do Google a acessar o site e reconhecer todas as mudanças e atualizações. Além de rastrear por completo o site)
 
 
 
