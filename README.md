@@ -17,5 +17,7 @@ https://gabryelxf.github.io/Freedom-Page/
 #Ferramentas utilizados para melhorar o site :
 
 -https://favicon.io/ (icone do <head>)
+  
 -https://clarity.microsoft.com/ (Cria o mapa de calor do site)
+  
 -https://getform.io/ (Receber formulários POST)
