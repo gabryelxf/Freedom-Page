@@ -14,7 +14,7 @@ https://gabryelxf.github.io/Freedom-Page/
 -https://convertio.co/pt/jpg-webp/
 
 
-#Ferramentas utilizados para melhorar o site :
+#Ferramentas utilizadas para melhorar o site :
 
 -https://favicon.io/ (icone do <head>)
   
