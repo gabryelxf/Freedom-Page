@@ -22,6 +22,8 @@ https://gabryelxf.github.io/Freedom-Page/
 
     -https://smallseotools.com/pt/robots-txt-generator/ (Robot.txt Autoriza o robô do Google a acessar o site e reconhecer todas as mudanças e atualizações. Além de rastrear por completo o site);
 
+    -Google analytcs
+
 }
 
 #Ferramentas de suporte à otimização{
