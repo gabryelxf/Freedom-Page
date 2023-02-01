@@ -1,5 +1,7 @@
 # Freedom-Page
-Site de estudo utilizando como base a empresa freedom
+Site de estudo utilizando como base a empresa freedom:
+
+https://gabryelxf.github.io/Freedom-Page/
 
 Foi utilizado HTML e CSS
 
