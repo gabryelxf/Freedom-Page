@@ -1,15 +1,15 @@
-#Acesse está página em:
+# Acesse está página em:
 https://gabryelxf.github.io/Freedom-Page/
 
 # Freedom-Page
-#Landing page de estudo utilizando como base a empresa freedom:
+## Landing page de **estudo** utilizando como base a empresa freedom:
 
-#HTML e CSS.
-
-
+    HTML e CSS.
 
 
-#Outras Ferramentas utilizadas{
+
+
+## Outras Ferramentas utilizadas
 
     -https://favicon.io/ (icone do <head>);
   
@@ -25,9 +25,9 @@ https://gabryelxf.github.io/Freedom-Page/
 
     -Google analytics
 
-}
 
-#Ferramentas de suporte à otimização{
+
+## Ferramentas de suporte à otimização
 
     -https://www.photopea.com/ (Edição e redimensionamento de imagens);
 
@@ -40,10 +40,10 @@ https://gabryelxf.github.io/Freedom-Page/
             -Lighthouse;
             -SEO Minion
 
-}
 
 
-#Meta Tags SEO{
+
+## Meta Tags SEO
 
     -Tag Canonical
     -Meta Description
@@ -51,4 +51,4 @@ https://gabryelxf.github.io/Freedom-Page/
     -Keywrods
     -Author
 
-}
+
