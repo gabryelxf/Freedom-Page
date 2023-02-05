@@ -1,7 +1,7 @@
 https://gabryelxf.github.io/Freedom-Page/
 
 # Freedom-Page
-#Site de estudo utilizando como base a empresa freedom:
+#Landing page de estudo utilizando como base a empresa freedom:
 
 #HTML e CSS.
 
